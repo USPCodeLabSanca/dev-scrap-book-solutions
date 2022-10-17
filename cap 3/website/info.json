@@ -1,0 +1,59 @@
+[
+    {
+        "band_name": "The Beatles",
+        "guitar_player": "George Harrison",
+        "drummer": "Ringo Starr",
+        "bassist": "Paul McCartney",
+        "singer": "John Lennon"
+    },
+    {
+        "band_name": "Led Zeppelin",
+        "guitar_player": "Jimmy Page",
+        "drummer": "John Bonham",
+        "bassist": "John Paul Jones",
+        "singer": "Robert Plant"
+    },
+    {
+        "band_name": "Deep Purple",
+        "guitar_player": "Ritchie Blackmore",
+        "drummer": "Ian Paice",
+        "bassist": "Roger Glover",
+        "singer": "Ian Gillan",
+        "keyboard": "Jon Lord"
+    },
+    {
+        "band_name": "Black Sabbath",
+        "guitar_player": "Tony Iommi",
+        "drummer": "Bill Ward",
+        "bassist": "Geezer Butler",
+        "singer": "Ozzy Osbourne"
+    },
+    {
+        "band_name": "Ramones",
+        "guitar_player": "Johnny Ramone",
+        "drummer": "Tommy Ramone",
+        "singer": "Joey Ramone",
+        "bassist": "Dee Dee Ramone"
+    },
+    {
+        "band_name": "The Doors",
+        "guitar_player": "Robby Krieger",
+        "drummer": "John Densmore",
+        "singer": "Jim Morrison",
+        "keyboard": "Ray Manzarek"
+    },
+    {
+        "band_name": "Nirvana",
+        "guitar_player": "Kurt Cobain",
+        "singer": "Kurt Cobain",
+        "bassist": "Krist Novoselic",
+        "drummer": "Dave Grohl"
+    },
+    {
+        "band_name": "The Cure",
+        "guitar_player": "Robert Smith",
+        "singer": "Robert Smith",
+        "bassist": "Simon Gallup",
+        "drummer": "Jason Cooper"
+    }
+]
